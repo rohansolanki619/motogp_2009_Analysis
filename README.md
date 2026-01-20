@@ -1,20 +1,12 @@
 \# 🏍️ MotoGP 2009 Performance Analysis 📊
 
-
-
-<p align="center">
-
-&nbsp; <img src="https://raw.githubusercontent.com/rohansolanki619/motogp\_2009\_Analysis/main/images/valentino\_rossi\_poster.jpg" width="320"/>
-
-</p>
+![valentino_rossi_poster](https://github.com/user-attachments/assets/95f7e730-5bb7-490b-8976-127bd482b4ff)
 
 
 
-<p align="center">
 
-&nbsp; <img src="https://raw.githubusercontent.com/rohansolanki619/motogp\_2009\_Analysis/main/images/motogp\_logo.jpg" width="180"/>
 
-</p>
+![motogp_logo](https://github.com/user-attachments/assets/052ec441-e2f0-4f62-b536-70d193048b46)
 
 ---
 
@@ -74,11 +66,8 @@ to reflect his dominance during the season.
 
 
 
-<p align="center">
+<img width="1042" height="601" alt="dashboard_preview" src="https://github.com/user-attachments/assets/2bf6e72d-6817-4032-ac36-91de566e1dea" />
 
-&nbsp; <img src="https://raw.githubusercontent.com/rohansolanki619/motogp\_2009\_Analysis/main/images/dashboard\_preview.jpg" width="850"/>
-
-</p>
 
 
 

@@ -1,0 +1,86 @@
+grand_prix,circuit,rider,is_winner,win_probability
+Qatar motorcycle Grand Prix,Losail,Casey Stoner,1,0.6745564
+Japanese motorcycle Grand Prix,Motegi,Jorge Lorenzo,1,0.09488183
+Spanish motorcycle Grand Prix,Jerez,Valentino Rossi,1,0.80555093
+French motorcycle Grand Prix,Le Mans,Jorge Lorenzo,1,0.6801674
+Italian motorcycle Grand Prix,Mugello,Casey Stoner,1,0.75831556
+Catalan motorcycle Grand Prix,Catalunya,Valentino Rossi,1,0.73110384
+Dutch TT,Assen,Valentino Rossi,1,0.7547045
+United States motorcycle Grand Prix,Laguna Seca,Dani Pedrosa,1,0.6289568
+German motorcycle Grand Prix,Sachsenring,Valentino Rossi,1,0.7603016
+British motorcycle Grand Prix,Donington,Andrea Dovizioso,1,0.009907148
+Czech Republic motorcycle Grand Prix,Brno,Valentino Rossi,1,0.7532275
+Indianapolis motorcycle Grand Prix,Indianapolis,Jorge Lorenzo,1,0.09488183
+San Marino and Rimini Riviera motorcycle Grand Prix,Misano,Valentino Rossi,1,0.75810325
+Portuguese motorcycle Grand Prix,Estoril,Jorge Lorenzo,1,0.71362984
+Australian motorcycle Grand Prix,Phillip Island,Casey Stoner,1,0.73183626
+Malaysian motorcycle Grand Prix,Sepang,Casey Stoner,1,0.7780701
+Valencian Community motorcycle Grand Prix,Valencia,Dani Pedrosa,1,0.6374884
+Qatar motorcycle Grand Prix,Losail,Valentino Rossi,0,0.60637295
+Qatar motorcycle Grand Prix,Losail,Jorge Lorenzo,0,0.26059383
+Qatar motorcycle Grand Prix,Losail,Dani Pedrosa,0,0.3447833
+Qatar motorcycle Grand Prix,Losail,Andrea Dovizioso,0,0.06069084
+Japanese motorcycle Grand Prix,Motegi,Valentino Rossi,0,0.54172415
+Japanese motorcycle Grand Prix,Motegi,Casey Stoner,0,0.22512679
+Japanese motorcycle Grand Prix,Motegi,Dani Pedrosa,0,0.15499571
+Japanese motorcycle Grand Prix,Motegi,Andrea Dovizioso,0,0.009907148
+Spanish motorcycle Grand Prix,Jerez,Jorge Lorenzo,0,0.16327012
+Spanish motorcycle Grand Prix,Jerez,Casey Stoner,0,0.29094684
+Spanish motorcycle Grand Prix,Jerez,Dani Pedrosa,0,0.3708322
+Spanish motorcycle Grand Prix,Jerez,Andrea Dovizioso,0,0.033879783
+French motorcycle Grand Prix,Le Mans,Valentino Rossi,0,0.6287627
+French motorcycle Grand Prix,Le Mans,Casey Stoner,0,0.4849059
+French motorcycle Grand Prix,Le Mans,Dani Pedrosa,0,0.7516389
+French motorcycle Grand Prix,Le Mans,Andrea Dovizioso,0,0.15392818
+Italian motorcycle Grand Prix,Mugello,Valentino Rossi,0,0.54172415
+Italian motorcycle Grand Prix,Mugello,Jorge Lorenzo,0,0.2468981
+Italian motorcycle Grand Prix,Mugello,Dani Pedrosa,0,0.58365446
+Italian motorcycle Grand Prix,Mugello,Andrea Dovizioso,0,0.08023943
+Catalan motorcycle Grand Prix,Catalunya,Jorge Lorenzo,0,0.18228373
+Catalan motorcycle Grand Prix,Catalunya,Casey Stoner,0,0.27837119
+Catalan motorcycle Grand Prix,Catalunya,Dani Pedrosa,0,0.24458326
+Catalan motorcycle Grand Prix,Catalunya,Andrea Dovizioso,0,0.022497516
+Dutch TT,Assen,Jorge Lorenzo,0,0.1708099
+Dutch TT,Assen,Casey Stoner,0,0.25217426
+Dutch TT,Assen,Dani Pedrosa,0,0.2673956
+Dutch TT,Assen,Andrea Dovizioso,0,0.02464077
+United States motorcycle Grand Prix,Laguna Seca,Valentino Rossi,0,0.6115434
+United States motorcycle Grand Prix,Laguna Seca,Jorge Lorenzo,0,0.27267185
+United States motorcycle Grand Prix,Laguna Seca,Casey Stoner,0,0.46335804
+United States motorcycle Grand Prix,Laguna Seca,Andrea Dovizioso,0,0.0721419
+German motorcycle Grand Prix,Sachsenring,Jorge Lorenzo,0,0.18878876
+German motorcycle Grand Prix,Sachsenring,Casey Stoner,0,0.2499184
+German motorcycle Grand Prix,Sachsenring,Dani Pedrosa,0,0.24027666
+German motorcycle Grand Prix,Sachsenring,Andrea Dovizioso,0,0.025383813
+British motorcycle Grand Prix,Donington,Valentino Rossi,0,0.54172415
+British motorcycle Grand Prix,Donington,Jorge Lorenzo,0,0.09488183
+British motorcycle Grand Prix,Donington,Casey Stoner,0,0.22512679
+British motorcycle Grand Prix,Donington,Dani Pedrosa,0,0.15499571
+Czech Republic motorcycle Grand Prix,Brno,Jorge Lorenzo,0,0.17609887
+Czech Republic motorcycle Grand Prix,Brno,Casey Stoner,0,0.25688237
+Czech Republic motorcycle Grand Prix,Brno,Dani Pedrosa,0,0.2516875
+Czech Republic motorcycle Grand Prix,Brno,Andrea Dovizioso,0,0.024430266
+Indianapolis motorcycle Grand Prix,Indianapolis,Valentino Rossi,0,0.54172415
+Indianapolis motorcycle Grand Prix,Indianapolis,Casey Stoner,0,0.22512679
+Indianapolis motorcycle Grand Prix,Indianapolis,Dani Pedrosa,0,0.15499571
+Indianapolis motorcycle Grand Prix,Indianapolis,Andrea Dovizioso,0,0.009907148
+San Marino and Rimini Riviera motorcycle Grand Prix,Misano,Jorge Lorenzo,0,0.17757373
+San Marino and Rimini Riviera motorcycle Grand Prix,Misano,Casey Stoner,0,0.26416922
+San Marino and Rimini Riviera motorcycle Grand Prix,Misano,Dani Pedrosa,0,0.24808167
+San Marino and Rimini Riviera motorcycle Grand Prix,Misano,Andrea Dovizioso,0,0.025067603
+Portuguese motorcycle Grand Prix,Estoril,Valentino Rossi,0,0.8990721
+Portuguese motorcycle Grand Prix,Estoril,Casey Stoner,0,0.32268214
+Portuguese motorcycle Grand Prix,Estoril,Dani Pedrosa,0,0.4381727
+Portuguese motorcycle Grand Prix,Estoril,Andrea Dovizioso,0,0.18266436
+Australian motorcycle Grand Prix,Phillip Island,Valentino Rossi,0,0.570449
+Australian motorcycle Grand Prix,Phillip Island,Jorge Lorenzo,0,0.42548496
+Australian motorcycle Grand Prix,Phillip Island,Dani Pedrosa,0,0.41818726
+Australian motorcycle Grand Prix,Phillip Island,Andrea Dovizioso,0,0.07001621
+Malaysian motorcycle Grand Prix,Sepang,Valentino Rossi,0,0.862903
+Malaysian motorcycle Grand Prix,Sepang,Jorge Lorenzo,0,0.21514627
+Malaysian motorcycle Grand Prix,Sepang,Dani Pedrosa,0,0.27654043
+Malaysian motorcycle Grand Prix,Sepang,Andrea Dovizioso,0,0.09514515
+Valencian Community motorcycle Grand Prix,Valencia,Valentino Rossi,0,0.60969216
+Valencian Community motorcycle Grand Prix,Valencia,Jorge Lorenzo,0,0.26918948
+Valencian Community motorcycle Grand Prix,Valencia,Casey Stoner,0,0.44007254
+Valencian Community motorcycle Grand Prix,Valencia,Andrea Dovizioso,0,0.07485767

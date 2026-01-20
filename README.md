@@ -4,7 +4,7 @@
 
 <p align="center">
 
-&nbsp; <img src="images/valentino\_rossi\_poster.png" width="320"/>
+&nbsp; <img src="images/valentino\_rossi\_poster.jpg" width="320"/>
 
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 
-&nbsp; <img src="images/motogp\_logo.png" width="180"/>
+&nbsp; <img src="images/motogp\_logo.jpg" width="180"/>
 
 </p>
 
@@ -78,7 +78,7 @@ to reflect his dominance during the season.
 
 <p align="center">
 
-&nbsp; <img src="images/dashboard\_preview.png" width="850"/>
+&nbsp; <img src="images/dashboard\_preview.jpg" width="850"/>
 
 </p>
 
@@ -101,8 +101,6 @@ motogp-2009-performance-analysis/
 ├── 📁 images/
 
 └── 📄 README.md
-
-
 
 ---
 
@@ -149,6 +147,4 @@ It is suitable for \*\*academic submission\*\*, \*\*portfolio presentation\*\*, 
 
 
 ✨ \*“Data tells the story — visualization makes it memorable.”\*
-
-
 

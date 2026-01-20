@@ -102,6 +102,8 @@ motogp-2009-performance-analysis/
 
 └── 📄 README.md
 
+
+
 ---
 
 
@@ -134,9 +136,11 @@ It is suitable for \*\*academic submission\*\*, \*\*portfolio presentation\*\*, 
 
 ---
 
+
+
 \## 👤 Author
 
-\*\*Rohan Solanki\*\*
+\*\*Rohan Solanki\*\*  
 
 ---
 

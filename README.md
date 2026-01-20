@@ -134,13 +134,9 @@ It is suitable for \*\*academic submission\*\*, \*\*portfolio presentation\*\*, 
 
 ---
 
-
-
 \## 👤 Author
 
 \*\*Rohan Solanki\*\*
-
-
 
 ---
 
